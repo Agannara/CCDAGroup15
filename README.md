@@ -22,4 +22,5 @@
 ## KPI’s: 
 ### The Risk Factor Identification Rate is pivotal, ensuring the accurate pinpointing of factors contributing to heart disease for effective preventive measures. The Preventive Action Adoption Rate gauges the practical impact, measuring the percentage of cases where identified risk factors lead to successful preventive actions or interventions. A low False Positive Rate is essential to minimize unnecessary interventions, reflecting the precision of the model in identifying true cases. Sensitivity for High-Risk Individuals is vital to ensure that the model effectively identifies individuals at the highest risk of heart disease, guiding targeted interventions.The Precision for Preventive Actions assesses the accuracy of the model in recommending particular preventive actions. The overall model accuracy gives an overall assessment of how well the model identifies and prevents heart disease risk factors. A Population-level Impact Score reflects the machine learning model's overall effectiveness in promoting heart disease prevention and management at the population level by taking into account the number of risk factors that have been identified, adoption rates, and overall impact.
 
-
+## AWS Pipeline
+[![Screenshot-2023-11-20-at-3-39-45-AM.png](https://i.postimg.cc/Jz8YqcKW/Screenshot-2023-11-20-at-3-39-45-AM.png)](https://postimg.cc/D8CcfGtC)
