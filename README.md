@@ -24,3 +24,8 @@
 
 ## AWS Pipeline
 [![Screenshot-2023-11-20-at-3-39-45-AM.png](https://i.postimg.cc/Jz8YqcKW/Screenshot-2023-11-20-at-3-39-45-AM.png)](https://postimg.cc/D8CcfGtC)
+
+## Algorithms Employed: 
+### XGBoost,Decision Trees,Random Forest
+### Their Metric Performance:
+[![Screenshot-2023-12-03-at-7-33-35-PM.png](https://i.postimg.cc/HsyGsy19/Screenshot-2023-12-03-at-7-33-35-PM.png)](https://postimg.cc/Ln2QxhXJ)
