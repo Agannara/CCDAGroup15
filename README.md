@@ -29,3 +29,6 @@
 ### XGBoost,Decision Trees,Random Forest
 ### Their Metric Performance:
 [![Screenshot-2023-12-03-at-7-33-35-PM.png](https://i.postimg.cc/HsyGsy19/Screenshot-2023-12-03-at-7-33-35-PM.png)](https://postimg.cc/Ln2QxhXJ)
+
+## Cost Estimator: 
+[![Screenshot-2023-12-09-at-5-29-43-PM.png](https://i.postimg.cc/xTvYbb8h/Screenshot-2023-12-09-at-5-29-43-PM.png)](https://postimg.cc/Tp3Bz1rJ)
